@@ -11,6 +11,7 @@
 1. [数据结构思维中文版](https://legacy.gitbook.com/book/wizardforcel/think-dast/details)
 
 ### GOLANG 
+1. [GO学习索引](https://github.com/unknwon/go-study-index)
 1. [golang博文](GOLANG_BLOG.md)
 
 ### 数据结构与算法
